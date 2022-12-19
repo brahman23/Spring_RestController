@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.peaksoft</groupId>
-    <artifactId>SpringMVCBootRestController</artifactId>
+    <artifactId>SpringBootRestControllerApplication</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>SpringMVCBootRestController</name>
-    <description>SpringMVCBootRestController</description>
+    <description>SpringBootRestControllerApplication</description>
     <properties>
         <java.version>17</java.version>
     </properties>
